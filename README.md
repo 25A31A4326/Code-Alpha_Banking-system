@@ -1,101 +1,127 @@
-🏦 Banking System using C++ (CodeAlpha Internship)
+🏦🏦 Banking System using C++ (CodeAlpha Internship)
 
-📌 Project Title
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Banking System – Customer, Account & Transaction Management
+📌📌 Project Title
 
-🧠 Project Overview
+🏦 Banking System – Customer, Account & Transaction Management
 
-The Banking System is a C++ console-based application developed to simulate basic banking operations. It allows users to create customer accounts, perform deposits, withdrawals, and fund transfers, while maintaining transaction records. The system demonstrates how banking services can be managed efficiently using Object-Oriented Programming concepts.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🎯 Objective
+🧠🧠 Project Overview
 
-• To create and manage customer accounts
+The Banking System is a C++ console-based application designed to perform basic banking operations efficiently. It enables users to create customer accounts, deposit and withdraw money, transfer funds between accounts, and maintain transaction records. The project demonstrates the practical implementation of Object-Oriented Programming concepts and real-world banking functionalities.
 
-• To perform deposits and withdrawals
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• To enable fund transfers between accounts
+🎯🎯 Objective
 
-• To maintain transaction history
+✅ Create and manage customer accounts
 
-• To display account information and balances
+✅ Perform deposits and withdrawals
 
-⚙️ Key Concepts Used
+✅ Transfer funds between accounts
 
-• Classes and Objects
+✅ Maintain transaction history
 
-• Encapsulation
+✅ Display account information and balances
 
-• Constructors
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• Vectors / Arrays
+⚙️⚙️ Key Concepts Used
 
-• Conditional Statements (if-else)
+🔹 Classes and Objects
 
-• Loops
+🔹 Encapsulation
 
-• Functions
+🔹 Constructors
 
-• File Handling (Optional)
+🔹 Functions
 
-• Input/Output Streams in C++
+🔹 Arrays / Vectors
 
-📊 Algorithm / Working Steps
+🔹 Conditional Statements (if-else)
 
-1. Start Program
+🔹 Loops
 
-2. Create Customer and Account
+🔹 Input/Output Streams
 
-3. Input Customer Details
+🔹 File Handling (Optional)
 
-4. Generate Account Information
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-5. Perform Banking Operations:
-   
-   • Deposit Money
-   
-   • Withdraw Money
-   
-   • Transfer Funds
+📊📊 Algorithm / Working Steps
 
-6. Record Transaction Details
+▶️ Start Program
 
-7. View Account Balance
+▶️ Create Customer and Account
 
-8. Display Recent Transactions
+▶️ Enter Customer Details
 
-9. Exit Program
+▶️ Generate Account Information
 
-💳 Banking Operations
+▶️ Select Banking Operations
 
-Operation → Purpose
+▶️ Deposit Money
 
-Deposit → Add money to account
+▶️ Withdraw Money
 
-Withdraw → Remove money from account
+▶️ Transfer Funds
 
-Transfer → Send money to another account
+▶️ Store Transaction Details
 
-Balance Inquiry → View available balance
+▶️ View Account Balance
 
-Transaction History → View recent transactions
+▶️ Display Recent Transactions
 
-📐 Features
+▶️ Exit Program
 
-• Customer Management
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• Account Management
+💳💳 Banking Operations
 
-• Deposit & Withdrawal
+💰 Deposit → Add money to account
 
-• Fund Transfer
+💸 Withdraw → Remove money from account
 
-• Transaction Tracking
+🔄 Transfer → Send money to another account
 
-• Balance Display
+📈 Balance Inquiry → View available balance
 
-• User-Friendly Menu System
+📜 Transaction History → View recent transactions
 
-✅ Outcome
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-The Banking System provides a simple and effective way to manage banking activities. It helps users understand real-world banking operations while demonstrating the practical use of C++ programming and Object-Oriented concepts.
+✨✨ Features
+
+🌟 Customer Management
+
+🌟 Account Management
+
+🌟 Deposit & Withdrawal
+
+🌟 Fund Transfer
+
+🌟 Transaction Tracking
+
+🌟 Balance Display
+
+🌟 Menu-Driven Interface
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📐📐 Formula Used
+
+💰 New Balance = Current Balance + Deposit Amount
+
+💸 New Balance = Current Balance − Withdrawal Amount
+
+🔄 Fund Transfer = Sender Balance − Amount & Receiver Balance + Amount
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆🏆 Outcome
+
+The Banking System provides a secure and user-friendly platform for managing banking activities. It helps users understand customer management, account handling, transaction processing, and Object-Oriented Programming concepts through a practical C++ application.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
